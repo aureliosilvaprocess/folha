@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="grid grid-cols-2 w-full gap-5 py-10">
+    <div class="rounded-md bg-slate-200"></div>
+    <div class="rounded-md bg-red-400"></div>
+</div>
